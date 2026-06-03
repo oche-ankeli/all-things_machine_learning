@@ -1,6 +1,6 @@
-# alu-machine_learning
+# all-things_machine_learning
 
-This repository contains projects and implementations in mathematics, machine learning pipelines, supervised learning, and unsupervised learning.
+This repository contains my projects and implementations in mathematics, machine learning pipelines, supervised learning, and unsupervised learning.
 
 ## Contents
 
@@ -25,7 +25,7 @@ This repository contains projects and implementations in mathematics, machine le
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/Tripp808/alu-machine_learning.git
+git clone https://github.com/Tripp808/all-things_machine_learning.git
 ```
 ## Contributions:
 Contributions are welcome! Feel free to fork the repository and create a pull request.
