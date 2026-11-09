@@ -25,7 +25,7 @@ This repository contains my projects and implementations in mathematics, machine
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/Tripp808/all-things_machine_learning.git
+git clone https://github.com/oche-ankeli/all-things_machine_learning
 ```
 ## Contributions:
 Contributions are welcome! Feel free to fork the repository and create a pull request.
